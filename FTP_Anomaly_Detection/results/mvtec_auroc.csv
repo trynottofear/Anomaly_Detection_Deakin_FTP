@@ -1,0 +1,17 @@
+Category,AUROC
+bottle,1.00000
+cable,0.98669
+capsule,0.94216
+carpet,0.98596
+grid,0.97410
+hazelnut,1.00000
+leather,1.00000
+metal_nut,0.99609
+pill,0.94272
+screw,0.85960
+tile,0.99639
+toothbrush,0.95278
+transistor,0.97375
+wood,0.98860
+zipper,0.98188
+Mean,0.97205
