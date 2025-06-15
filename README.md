@@ -28,3 +28,17 @@ pip install -r requirements.txt
 
 # 4. Launch the Jupyter Notebook  
 jupyter lab Autoencoders_using_resnet_backbone_multilevel.ipynb
+
+
+
+FTP_Anomaly_Detection/
+├── Deakin_FTP_Report.pdf  
+├── Autoencoders_using_resnet_backbone_multilevel.ipynb  
+├── requirements.txt  
+├── models/  
+│   ├── mvtec_carpet_ae.pth  
+│   ├── mvtec_bottle_ae.pth  
+│   └── ...           # Trained CAE checkpoints per category
+└── results/  
+    ├── mvtec_metrics.csv  
+    └── visa_metrics.csv  
