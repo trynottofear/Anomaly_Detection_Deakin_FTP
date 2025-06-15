@@ -175,4 +175,15 @@ Distributed under the [MIT License](LICENSE).
 
 ---
 
+## ⚠️ Code Attribution
+
+This repository includes components inspired by or adapted from:
+
+- Some GitHub notebooks from earlier MVTec anomaly detection work
+- Open-source repositories
+
+If you are the author of any reused component and would like credit added or content removed, feel free to contact me.
+
+---
+
 *Happy anomaly hunting!*  
